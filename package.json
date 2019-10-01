@@ -1,5 +1,5 @@
 {
-  "name": "SpaceX Desktop App",
+  "name": "spacex-desktop-app",
   "productName": "Upspace",
   "version": "0.17.1",
   "description": "SpaceX desktop app. News and company updates.",
@@ -57,8 +57,8 @@
   },
   "main": "./app/main.prod.js",
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.develar.ElectronReact",
+    "productName": "upSpace",
+    "appId": "org.develar.upSpace",
     "files": [
       "app/dist/",
       "app/app.html",
